@@ -5,11 +5,11 @@ The main tool that is leveraged to achieve this is [scipy's](https://pypi.org/pr
 
 **a.** **Base-decomposition** 
 
-[bd_pmul.py](https://github.com/rtitiu/pmul-approx-ffts/blob/main/bd_pmul.py)
+[bd_pmul.py](https://github.com/rtitiu/polymul-approx-ffts/blob/main/bd_pmul.py)
 
 
 **b.** **Chinese Remainder Theorem (CRT)**     
 
-[crt_pmul.sage](https://github.com/rtitiu/pmul-approx-ffts/blob/main/crt_pmul.sage)
+[crt_pmul.sage](https://github.com/rtitiu/polymul-approx-ffts/blob/main/crt_pmul.sage)
 
 :arrow_right: For more details check out the [implementation_details.pdf](https://github.com/rtitiu/polymul-approx-ffts/blob/main/implementation_details.pdf) file! 
