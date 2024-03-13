@@ -12,4 +12,4 @@ The main tool that is leveraged to achieve this is [scipy's](https://pypi.org/pr
 
 [crt_pmul.sage](https://github.com/rtitiu/polymul-approx-ffts/blob/main/crt_pmul.sage)
 
-:arrow_right: For more details check out the [implementation_details.pdf](https://github.com/rtitiu/polymul-approx-ffts/blob/main/implementation_details.pdf) file! 
+:arrow_right: For more details and some time comparisons ⏱️ check out the [implementation_details.pdf](https://github.com/rtitiu/polymul-approx-ffts/blob/main/implementation_details.pdf) file! 
